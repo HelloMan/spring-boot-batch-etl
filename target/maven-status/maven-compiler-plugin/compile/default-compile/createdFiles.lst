@@ -1,8 +1,0 @@
-com/github/job/demo/DemoJobConfig.class
-com/github/EtlJobApplication.class
-com/github/config/BatchConfiguration.class
-com/github/job/demo/DemoJobLauncher.class
-com/github/job/core/JobCommandLineRunner.class
-com/github/job/core/JobLauncher.class
-com/github/config/BatchConfiguration$1.class
-com/github/job/core/JobCommand.class

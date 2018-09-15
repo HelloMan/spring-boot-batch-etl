@@ -7,7 +7,7 @@ A simple spring boot batch project for etl purpose.
 `airline`  
 # How to use it
 
-##clone 
+## clone 
 `git clone https://github.com/HelloMan/spring-boot-batch-etl.git`
 
 ## build 

@@ -11,7 +11,9 @@ A simple spring boot batch project for etl purpose.
 `git clone https://github.com/HelloMan/spring-boot-batch-etl.git`
 
 ## build 
-`cd spring-boot-batch-etl &&  mvn clean package `
+`cd spring-boot-batch-etl` 
+
+`mvn clean package `
 
 ## run
-`cd spring-boot-batch-etl && java -jar spring-boot-batch-etl-0.0.1-SNAPSHOT.jar -j demoJob`
+`java -jar target/spring-boot-batch-etl-0.0.1-SNAPSHOT.jar -j demoJob`

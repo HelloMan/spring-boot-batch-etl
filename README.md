@@ -2,9 +2,9 @@
 
 A simple spring boot batch project for etl purpose. 
 ## Technical stacks
-`spring boot batch starter` - a spring boot batch starter for quick setup spring batch 
-`airline`  - annotation based command line runner 
+`spring boot batch starter` 
 
+`airline`  
 # How to use it
 
 ##clone 

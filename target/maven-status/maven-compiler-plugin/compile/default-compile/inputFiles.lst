@@ -1,0 +1,7 @@
+/Users/stevenzhang/work/spring-boot-batch-etl/src/main/java/com/github/job/core/JobCommand.java
+/Users/stevenzhang/work/spring-boot-batch-etl/src/main/java/com/github/job/demo/DemoJobConfig.java
+/Users/stevenzhang/work/spring-boot-batch-etl/src/main/java/com/github/job/demo/DemoJobLauncher.java
+/Users/stevenzhang/work/spring-boot-batch-etl/src/main/java/com/github/job/core/JobCommandLineRunner.java
+/Users/stevenzhang/work/spring-boot-batch-etl/src/main/java/com/github/EtlJobApplication.java
+/Users/stevenzhang/work/spring-boot-batch-etl/src/main/java/com/github/config/BatchConfiguration.java
+/Users/stevenzhang/work/spring-boot-batch-etl/src/main/java/com/github/job/core/JobLauncher.java

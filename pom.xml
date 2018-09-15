@@ -3,12 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.oriente</groupId>
-    <artifactId>data-etl</artifactId>
+    <groupId>com.github</groupId>
+    <artifactId>spring-boot-batch-etl</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-
-    <name>data-etl</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
@@ -34,7 +32,14 @@
     </properties>
 
     <dependencies>
-        <!-- java annotation based commandline parser -->
+         <!-- java annotation based commandline parser -->
+        
+        <!-- jdbc drivers -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId> 
+            <version>1.4.197</version>
+        </dependency>
 
         <dependency>
             <groupId>io.airlift</groupId>
